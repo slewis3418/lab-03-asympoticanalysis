@@ -1,7 +1,7 @@
 # CMPS 6100 Lab 03
 ## Answers
 
-**Name:**_________________________
+**Name:**Sam Lewis
 
 
 Place all written answers from `lab-03.md` here.
@@ -10,7 +10,7 @@ Place all written answers from `lab-03.md` here.
 
 1. $32n \in O(n)$
 
-
+In PDF
 
 
 2. $\ln n \in \Omega(n)$
@@ -62,8 +62,10 @@ Place all written answers from `lab-03.md` here.
 Detail any and additional features that you added to the game here. 
 
 13. Detail the attack options for your player.
+1 = Punch
+2 = Kick
+3 = Magic
 
-
-14. If implemented, detail the ghost attack options and game logic for 
+15. If implemented, detail the ghost attack options and game logic for 
 ghost attack selection.
 
