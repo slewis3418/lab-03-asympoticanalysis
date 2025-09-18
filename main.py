@@ -88,7 +88,7 @@ def ghost_attack(player_hp):
 
 
 while True:
-    print("\nYou are in the {}.".format(rooms[player_room]))
+    print("You are in the {}.".format(rooms[player_room]))
     print(descriptions[player_room])
     move = input("Which direction do you want to go? (a/w/d/s): ").lower()
     directions = {'a': 0, 'w': 1, 'd': 2, 's': 3}
